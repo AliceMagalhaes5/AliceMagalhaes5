@@ -27,7 +27,7 @@
 
 <h3 style="border: none;"> 📌 Sobre mim </h3>
 
-💻 Sou estudante de **Análise e Desenvolvimento de Sistemas pela Anhanguera**, atualmente no **3º período**.
+💻 Sou estudante de **Análise e Desenvolvimento de Sistemas pela Anhanguera**.
 
 🚀 Tenho buscado desenvolver meus conhecimentos através de cursos, estudos e projetos práticos, construindo minha base na área de tecnologia.
 
@@ -43,7 +43,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
