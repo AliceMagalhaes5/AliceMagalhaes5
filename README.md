@@ -10,18 +10,17 @@
 
 <h3 style="border: none;">Contatos:</h3>
 
-<a href="https://www.linkedin.com/in/alicemagalhaes5400" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/alicemagalhaes5400" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
 </a>
 
-<a href="https://wa.me/32991446695" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-
-<a href="mailto:alicemagalhaes5400@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alicemagalhaes5400@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
+<a href="https://wa.me/5532991446695" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
 </div>
 
 <br>
